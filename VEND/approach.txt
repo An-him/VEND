@@ -1,0 +1,35 @@
+Essential approach that I utilize in my development process.
+
+Camaraderie with the team leaning unto DevOps for particular reasons.
+
+This is an approach I adopted from school(ALX) I've held fast onto it
+
+Understanding and Analysing the Problem
+Rephrasing it in my own words.
+Going Through The Sample Data And Examples Thoroughly
+Verifying expected behaviour by getting example inputs and outputs.
+
+Making a flowchart for the problem at hand.
+Whiteboarding my solution with words.
+Walking through my solution with an example as if you were a machine. Doing only what is written down. Correct your solution if needed.
+Whiteboarding solution with pseudocode.
+Walking through your solution with an example as if you were a machine. Do only what is written down. Correct your solution if needed.
+Whiteboarding solution with code.
+
+Write Pseudocode, make a flowchart
+Walking through the solution with an example as if you were a machine. Do only what is written down. Correct your solution if needed.
+
+Simplifying and Optimise Code
+Write code on your computer. [This being the first time I'm using my computer]
+Does this code run for every possible input including the edge cases.
+Is there an alternate solution for the same problem?
+Is the code efficient? Can it be more efficient or can the performance be improved?
+How else can you make the code more readable?
+Are there any more extra steps or functions you can take out?
+Is there any repetition in your code? Take it out.
+Test your code on your computer.
+Debug if necessary.
+C'est Fini!
+
+Being sure to break your task or project into smaller and smaller pieces, until I am comfortable solving each piece with the above steps.
+As for code, debugging each piece one at a time and debugging right after each small step to make sure everything works properly. This will also eschew me from having to debug multiple pieces at the same time and thus, making life much easier.

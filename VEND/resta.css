@@ -1,0 +1,89 @@
+/* Reset some default styles */
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #e0f3ff; /* Light blue background */
+  }
+
+  /* Header styles */
+  header {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+  }
+
+  h1 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+  /* Main content styles */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .intro {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  /* Menu section styles */
+  .menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .menu-item {
+    width: 300px;
+    margin: 20px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+  }
+
+  button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+
+  .resizable-image {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+.page-container {
+  margin-top: 40px;
+  text-align: right;
+  padding: 20px;
+  background-color: #f8f8f8;
+}
+
+.page-button {
+  display: inline-block;
+  background-color: #007bff;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+}
+
+/* Styles for the heading */
+.page-heading {
+  font-size: 24px;
+  margin: 0;
+  padding: 0;
+  color: #fff; /* Update heading color */
+}

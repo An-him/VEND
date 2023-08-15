@@ -1,0 +1,20 @@
+Scannable Content:
+Break up content into easily scannable sections using headings, bullet points, and short paragraphs. This format helps users quickly understand the content.
+
+Limited Distractions:
+Minimising distractions and unnecessary elements that might divert users' attention from the main goal. Keep the focus on the key message and action you want users to take.
+
+Responsive Design:
+The landing page must be responsive and adapt to various screen sizes and devices. Mobile-friendly design is crucial as a significant portion of users access websites on mobile devices.
+
+User-Centred Design:
+The design should prioritise the needs and preferences of my target audience. Understanding user personas, behaviour patterns, and preferences is essential to create a design that resonates with users.
+
+Clear and Compelling Messaging:
+The landing page's messaging should be concise, clear, and compelling. It should immediately communicate the value proposition or purpose of the page to visitors. A strong headline, subheadline, and supporting text can help achieve this.
+
+Color Scheme and Branding:
+The colour scheme should align with the brand's identity and evoke the right emotions in users. Consistent use of colours creates a cohesive design and helps reinforce brand recognition.
+
+Visual Consistency:
+Maintaining a consistent design language throughout the landing page enhances the user experience. Elements like buttons, icons, and headings should have a uniform appearance.
